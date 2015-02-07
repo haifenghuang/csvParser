@@ -71,4 +71,4 @@ csv文件请参照`test.csv`
 如果你发现程序中有任何错误，请发送邮件给我：`fenghai_hhf@163.com`。
 
 ## 许可证
-MIT许可证
+MIT许可证,详细请参见LICENSE文件
